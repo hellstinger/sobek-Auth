@@ -1,0 +1,4 @@
+1.- npm install express bcryptjs cors helmet dotenv jsonwebtoken morgan mysql2 sequelize
+2.- npm i @babel/core @babel/cli @babel/node @babel/preset-env nodemon -D
+
+MD5 apisobek 6efedf6fdb61b9f3b416202dfab2bf17
